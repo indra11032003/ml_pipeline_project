@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: ml_project
+Version: 0.1.0
+Summary: A machine learning project training
+Author: Indrajit Patil
+Author-email: indrajitp746@gmail.com
+Requires-Dist: pandas
+Requires-Dist: Flask
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: numpy
